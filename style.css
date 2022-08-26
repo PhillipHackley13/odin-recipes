@@ -9,7 +9,8 @@ img {
 h1, h3, h4,li,p{
     text-align: center;
     font-family:'Times New Roman','Gill Sans', serif;
-    color:white;
+    color:rgb(255, 255, 255);
+    font-weight:900;
 
 }
 
