@@ -6,3 +6,17 @@ img {
     width:500px;
 }
 
+h1, h3, h4,li,p{
+    text-align: center;
+    font-family:'Times New Roman','Gill Sans', serif;
+
+}
+
+ul,li {
+    text-align:center;
+    list-style-position: inside;
+}
+
+body {
+    background-image:url(./images/odin.jpeg);
+}
